@@ -20,4 +20,4 @@ A typical project structure looks like this:
 
 Things I want to add:
 - Experiment logging
-- Diffeent templates for `pyTorch` and `sk-learn`
+- Different templates for `pyTorch` and `sk-learn`
